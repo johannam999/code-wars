@@ -1,0 +1,1 @@
+The solution for this challenge showed up within 5 minutes. I used the reverse function to switch the positions of the strings inside the array and then returned the new array.
