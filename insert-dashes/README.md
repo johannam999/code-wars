@@ -1,0 +1,2 @@
+
+The solution for this challenge was to split the string of numbers to be able to inspect every elemement using for loop. Later we find whether any two numbers standing next to are odd using (singlenum[i])%2 ===1 (needed to be switched to a number with parseInt). If yes we push "-" into new array (var output) and also each number, if not we move to another string number. Next we use join function to merge the elements of the array back.
