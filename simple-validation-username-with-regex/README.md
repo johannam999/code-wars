@@ -1,0 +1,1 @@
+The challenge required finding short formulas of regular expressions to create function. The function is supposed to validate username that has to consist of onmly lowercase letters, numbers and underscore. The function is more complex as we allow input of only 4-16 numbers.
