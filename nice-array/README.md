@@ -1,0 +1,1 @@
+This challenge required looping twice to compare each element of the array with the next one to find out whether the subtraction of selected two elements equals 1 or -1. If yes, then we continue the loop to check the rest of the elements, if not we return false.If the array is epty, we also return false
