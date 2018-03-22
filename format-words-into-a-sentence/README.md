@@ -1,0 +1,1 @@
+We need to take array of strings and filter the emty ones.That will create a new array. Next we join the strings inside the array and replace the last "," with "and".
