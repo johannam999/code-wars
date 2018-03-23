@@ -1,0 +1,1 @@
+The main idea of this Kata was to split the given string into pieces/letters to run reverse function and then join function to get the seperate letters (elements of the array) to become one word (string) again.
