@@ -1,0 +1,1 @@
+I used a type of method to select non-string elements of the array and filter them adn return new array with only numbers.

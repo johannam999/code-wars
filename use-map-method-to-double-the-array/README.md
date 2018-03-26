@@ -1,0 +1,1 @@
+I used the map method to calculate each element of the array multiplied by 2 and return the new array.
