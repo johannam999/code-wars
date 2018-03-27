@@ -1,0 +1,1 @@
+The solution is to use filter to eliminate even numbers, use map to calculate cubic number of each array element and sum up with reduce function.
