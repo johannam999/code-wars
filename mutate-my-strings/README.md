@@ -1,0 +1,1 @@
+First I  needed to split both strings and compare each letter from both strings. When looping twice, I am creating new array with the letters from the second string in the place of the first. If the strings are duplicated we have to get rid of them.
