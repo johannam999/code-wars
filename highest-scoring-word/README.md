@@ -1,0 +1,1 @@
+I split the array into words and assign letters to the unicode number.  Then reduce each word to find a sum of letters and then the highest score using the Max function.
